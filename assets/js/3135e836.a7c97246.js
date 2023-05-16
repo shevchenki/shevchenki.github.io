@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshevchenki_github_io=self.webpackChunkshevchenki_github_io||[]).push([[4585],{3939:e=>{e.exports=JSON.parse('{"label":"Weekend","permalink":"/blog/tags/weekend","allTagsPath":"/blog/tags","count":1}')}}]);

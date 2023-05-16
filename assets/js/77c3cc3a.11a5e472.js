@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshevchenki_github_io=self.webpackChunkshevchenki_github_io||[]).push([[4831],{8157:e=>{e.exports=JSON.parse('{"label":"Wedding","permalink":"/blog/tags/wedding","allTagsPath":"/blog/tags","count":1}')}}]);
