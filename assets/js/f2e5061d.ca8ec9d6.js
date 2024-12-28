@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshevchenki_github_io=self.webpackChunkshevchenki_github_io||[]).push([[913],{9753:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/permanent-resident","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
