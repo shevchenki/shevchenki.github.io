@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkshevchenki_github_io=self.webpackChunkshevchenki_github_io||[]).push([[5028],{9997:a=>{a.exports=JSON.parse('{"label":"Japan","permalink":"/blog/tags/japan","allTagsPath":"/blog/tags","count":5}')}}]);
